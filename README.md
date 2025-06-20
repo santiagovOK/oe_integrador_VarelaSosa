@@ -17,13 +17,13 @@ Ambos Comisión M2025-22
 
 ## Video explicativo
 
-- [Video]()
+- [Video](https://youtu.be/Wi043UKzDH0)
 - [URL de la presentación](https://whimsical.com/org-empresarial-trabajo-integrador-atencion-al-cliente-automatiz-FFpd28QwPfTv5iQdvtArmf)
 
 ## Contenido
 
 - [Web con el diagrama BPMN y el chatbot](https://santiagovok.github.io/oe_integrador_VarelaSosa/) 
-- [Informe General (PDF)](./informe_general/)
+- [Informe General (PDF)](/informe_general/oe_integrador_VarelaSosa.pdf))
 
 ## Descripción del Proyecto
 
